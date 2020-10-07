@@ -30,5 +30,4 @@ $plugin->requires = 2018050800; // Requires this Moodle version.
 $plugin->component = 'local_metadata_tools';
 $plugin->dependencies = array(
         'local_metadata' => ANY_VERSION,
-        'local_metadata_tools' => ANY_VERSION,
 );
